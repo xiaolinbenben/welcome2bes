@@ -27,10 +27,10 @@ U+APP开发代码仓库
 | **罗德运** | **前端开发** | **790152945@qq.com** | **mammal7** |
 | **陈锋** | 前端开发 | 313452320@qq.com | cf-114514|
 | **林海龙** | 网站管理 | 1984245742@qq.com | hzdy-lhl|
-| **占子杰** | **后端开发** | 17738440858@163.com | **zhanzijienb** |
+| **占子杰** | **后端开发** | **17738440858@163.com** | **zhanzijienb** |
 
 # 教程分享
-1. [访问外网教程](访问外网教程.docx)
+1. [访问外网教程](访问外网教程.pdf)
 2. [免费VPN网址](https://ikuuu.one)
 3. [使用GitHub Desktop教程](putianikun.cn)
 4. [在pycharm中同步GitHub仓库教程](https://blog.csdn.net/john_bian/article/details/94657057)
