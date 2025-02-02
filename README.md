@@ -29,8 +29,8 @@
 2. ChatGPT 使用截图  
 
 ## 🚀公司项目介绍
-[U+项目](公司项目/U+/README.md)
-[AI_Box项目](公司项目/AI_Box/README.md)
+1. [U+项目](公司项目/U+/README.md) 
+2. [AI_Box项目](公司项目/AI_Box/README.md)
 
 
 
