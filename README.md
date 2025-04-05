@@ -1,12 +1,12 @@
 # welcome2bes
-## 💡[公司](image-8.png)寻找：
+## 💡[公司](/图片/image-8.png)寻找：
 1. 看好公司发展前景  
 2. 有时间投入公司项目  
 3. 积极紧跟最近科技发展潮流的人才  
 
 ## 💡公司提供：
 1. 技术指导  
-2. [实习证明](image-7.png)
+2. [实习证明](/图片/image-7.png)
 3. 高级VPN节点  
 4. ChatGPT Plus订阅  
 
@@ -41,7 +41,7 @@
 4. 坚定不移的**行动派**
 
 
-##  ![alt text](00F28BBC.png)面试资料
+##  ![alt text](/图片/00F28BBC.png)面试资料
 1. GitHub 主页截图  
 2. ChatGPT 使用截图 
 3. Cursor 使用截图
